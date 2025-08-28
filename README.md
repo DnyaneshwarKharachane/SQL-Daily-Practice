@@ -8,22 +8,18 @@ This repo is my personal space to **learn, practice, and improve SQL skills** wh
 - To **track progress** and showcase practice  
 - To build **strong database skills** for placements and projects  
 
-## 📂 Repository Structure  
-- `Notes/` → My topic-wise SQL notes  
-- `Practice/` → SQL queries & examples I solved  
-
-## 🔑 Topics I’m Covering  
-- Database & Tables  
-- Data Types & Constraints  
-- DDL, DML, DCL, TCL Commands  
-- SELECT, WHERE, ORDER BY, LIMIT  
-- Aggregate Functions, GROUP BY, HAVING  
-- Keys & Relationships  
-- Joins, Subqueries, Views  
+## 📂 Folder Structure  
+- `01_Basics/` → Introduction to SQL & MySQL  
+- `02_Commands/` → DDL, DML, DCL, TCL commands  
+- `03_Clauses/` → SELECT, WHERE, ORDER BY, GROUP BY, HAVING  
+- `04_Joins/` → INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN  
+- `05_Advanced/` → Subqueries, Views, Keys, Transactions  
+- `06_Practice/` → Hands-on queries, exercises, examples  
 
 ## 🚀 Skills I’m Building  
 - Writing clean SQL queries  
-- Database design understanding  
+- Database design & relationships  
+- Query optimization mindset  
 - Real hands-on practice with MySQL  
 
 ---
